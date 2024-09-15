@@ -310,4 +310,5 @@ export default function VacinHome() {
       </CardContent>
     </Card>
   )
+
 }
