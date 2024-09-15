@@ -10,7 +10,6 @@ import { Card, CardContent, CardDescription, CardFooter, CardHeader, CardTitle }
 import { Checkbox } from "@/components/ui/checkbox"
 import { Progress } from "@/components/ui/progress"
 import { MapPin, Syringe, ArrowLeft, MessageCircle } from 'lucide-react'
-
 type Vaccine = {
   id: string
   name: string
